@@ -80,3 +80,11 @@ Upgrade to **[Production MCP Server Suite v1.0 ($39 · Commercial & Agency Licen
 
 👉 **Get the full 12-Server Production Suite ($39):** https://danlopes3.gumroad.com/l/production-mcp-suite  
 👉 **Also building n8n automations?** Check out our [AI Agency & DevOps Automation Vault (25 n8n Workflows + 3 MCPs — $29)](https://danlopes3.gumroad.com/l/ai-automation-vault) or its [free MIT Lite repo](https://github.com/danlopes18-ctrl/ai-automation-vault-lite).
+---
+
+### 🎁 Save $38 — Complete AI Engineering Stack Bundle ($79 vs $117)
+
+Want all 3 zero-dependency developer suites together? Grab the **[Complete AI Engineering Stack Bundle ($79 · Commercial License)](https://danlopes3.gumroad.com/l/complete-ai-engineering-stack)**:
+- **AI Agency & DevOps Automation Vault ($29)** — 25 standard-node n8n workflows + 3 MCP servers
+- **Production MCP Server Suite ($39)** — 12 hardened zero-dependency Node.js MCP servers + Universal Inspector CLI
+- **AI Coding Guardrails & Engineering OS ($49)** — 10 executable PreToolUse/PostToolUse hooks & OWASP CLIs + 8 rulebooks + 12 slash skills
